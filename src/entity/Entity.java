@@ -16,6 +16,7 @@ public class Entity {
 
    // create a abstract reactangle
     public Rectangle solidArea;
+    public int solidAreaDefaultX , getSolidAreaDefaultY;
     public  boolean collisionOn = false;
 
 }
