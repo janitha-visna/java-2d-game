@@ -20,3 +20,5 @@ public class Entity {
     public  boolean collisionOn = false;
 
 }
+
+//change 1
